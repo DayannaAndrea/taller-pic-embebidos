@@ -25,3 +25,8 @@ cuando supera `9999`.
 
 La simulación de Proteus está en `proteus/ejercicio3.pdsprj` y el código en
 `src/ejercicio3.c`.
+
+### Videos
+
+- Protoboard: **https://drive.google.com/file/d/1mDxJx0YJnZKKnoR4w5KhSPUi_hjNd2XV/view?usp=sharing**
+- Simulador: **https://drive.google.com/file/d/1K0QGicROkhOjpdRh9KBnW1ioVAqEEDZ_/view?usp=sharing**

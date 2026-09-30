@@ -28,3 +28,9 @@ mientras `PORTC` envía el patrón de segmentos correspondiente.
 El proyecto de Proteus está en `proteus/cuarto.pdsprj`. El código principal se
 encuentra en `src/ejercicio4.c` y existe una variante para protoboard en
 `src/ejercicio4_protoboard.c`.
+
+### Videos
+
+- Protoboard: **https://drive.google.com/file/d/1LTiCvQ1XrNdizn6gMKbltGhxsRrIRLuG/view?usp=sharing**
+- Simulador: **https://drive.google.com/file/d/1zOgiEIctQFinfrianIzNkkA7gNfJRLTu/view?usp=sharing**
+- PCB: **https://drive.google.com/file/d/1tWsP2Z_EAeBvJ_REWX-ha6YwU-8XpeCD/view?usp=sharing**

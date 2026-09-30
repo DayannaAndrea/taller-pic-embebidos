@@ -13,7 +13,7 @@ Repositorio con las prácticas de programación y simulación de sistemas embebi
 | [Ejercicio 5](ejercicio5/README.md) | Reloj de 12 horas mostrado en un LCD |
 
 Cada ejercicio incluye, cuando corresponde, el código fuente, el proyecto de
-Proteus, el archivo compilado, imágenes de la simulación y videos de prueba.
+Proteus, el archivo compilado e imágenes de la simulación.
 
 ## Organización del repositorio
 
@@ -31,7 +31,6 @@ Dentro de cada ejercicio:
 
 - `src/`: código fuente en C.
 - `proteus/`: esquemas, simulaciones, imágenes y archivos compilados.
-- `media/`: videos de la implementación o simulación.
 - `README.md`: explicación particular de la práctica.
 
 ## Requisitos

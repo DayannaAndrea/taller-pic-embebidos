@@ -28,3 +28,8 @@ aceptar otra pulsación.
 La simulación de Proteus se encuentra en `proteus/ejercicio1.pdsprj` y el
 programa fuente en `src/ejercicio1.c`.
 
+### Videos
+
+- Protoboard: **https://drive.google.com/file/d/18DPQpZNVECgfbYvwyKfEIyafLRTJatQ7/view?usp=sharing**
+- Simulador: **https://drive.google.com/file/d/131Q5XWgHLjzmfDCTXQG9yEq1YV6cm671/view?usp=sharing**
+

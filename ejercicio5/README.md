@@ -25,3 +25,8 @@ la 1:00.
 
 La simulación de Proteus se encuentra en `proteus/EJE5.pdsprj` y el código
 fuente en `src/ejercicio5.c`.
+
+### Videos
+
+- Protoboard: **https://drive.google.com/file/d/16zBVPevUZrJKxBBRvBk9wNBAytg0A5Gj/view?usp=sharing**
+- Simulador: **https://drive.google.com/file/d/1CecpWgbVJUBCg30VBK9BfFto2Jx8nPah/view?usp=sharing**

@@ -27,3 +27,8 @@ Al llegar a 15, la secuencia vuelve a comenzar en 0.
 
 La simulación se encuentra en `proteus/ejercicio2.pdsprj` y el código en
 `src/ejercicio2.c`.
+
+### Videos
+
+- Protoboard: **https://drive.google.com/file/d/1J1H6bOISUHp3vsO0kwO3aWmxxLD8vZ2L/view?usp=sharing**
+- Simulador: **https://drive.google.com/file/d/1K5uJyFmvCx1Cj9q1m0at2Ix_7er_9Lav/view?usp=sharing**
